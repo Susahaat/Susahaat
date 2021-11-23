@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Susahaat
-- 👀 I’m interested in AI - developement.
-- 🌱 I’m currently learning data structures, javascript and other great stuff.
-- 📫 How to reach me ...
+- Majoring in Computer Science
+- My goal is to get my BSc degree done 5/2022
+- I am interested in web development, machine learning and AI development in general
 
 <!---
 Susahaat/Susahaat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
