@@ -1,5 +1,5 @@
 - Majoring in Computer Science
-- My goal is to get my BSc degree done 5/2022
+- My goal is to get my BSc degree done 5/2023
 - I am interested in web development, machine learning and AI development in general
 
 <!---
