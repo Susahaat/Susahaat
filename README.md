@@ -1,6 +1,7 @@
+- Bachelor of Science
 - Majoring in Computer Science
-- My goal is to get my BSc degree done 5/2023
-- I am interested in web development, machine learning and AI development in general
+- My goal is to get my MSc degree done 5/2025
+- I am excited to learn new things about code every day!
 
 <!---
 Susahaat/Susahaat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
